@@ -1,3 +1,5 @@
-**18, Italy**\n
-*Studying IT & Telecommunications*\n
+**18, Italy**
+
+*Studying IT & Telecommunications*
+
 *Developer: C, C++, Java, Python, JavaScript (& Node.js), HTML, CSS*
